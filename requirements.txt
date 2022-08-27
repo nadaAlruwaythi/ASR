@@ -1,0 +1,10 @@
+requests
+streamlit
+torch
+numpy
+scipy
+IPython
+transformers
+pydub
+speech_recognition
+os

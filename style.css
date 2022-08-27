@@ -1,0 +1,39 @@
+/*.css-18e3th9{*/
+/*    background-color:black !important;*/
+/*}*/
+
+
+.css-10trblm {
+    color: #eff3f4 !important;
+   text-align: center !important;
+    font-size: 1.9em !important;
+}
+.css-1cpxqw2 {
+ background-color: #eff3f4 !important;
+ color:rgb(237, 243, 245) !important;
+ font-size: 1.5em !important; ;
+}
+.css-1cpxqw2:nth-child(1)    {
+    width: 100%;
+}
+.css-1wrcr25{
+background-color: #4e9497;
+background-attachment: fixed;
+background-size: cover;
+
+
+}
+.css-1vg7lpk{
+    color:rgb(228, 240, 240) !important;
+    font-size: 1.3em !important;
+    background-color: #eff2f2;
+
+}
+
+.css-1cpxqw2:hover {
+  border-color: rgb(200, 231, 188);
+}
+
+.css-6vw1hb {
+  width: 100% !important;
+}
