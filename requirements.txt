@@ -6,5 +6,5 @@ scipy
 IPython
 transformers
 pydub
-speech_recognition
+speechrecognition
 os
